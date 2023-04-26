@@ -1,2 +1,3 @@
 # aula_bootstrap
-Projetos desenvolvidos durante as aulas de bootstrap
+Projetos desenvolvidos durante meu aprendizado sobre BootStrap
+
